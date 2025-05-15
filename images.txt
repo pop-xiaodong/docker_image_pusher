@@ -5,4 +5,4 @@ xhofe/alist:latest
 cloudflare/cloudflared:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm cloudflare/cloudflared
+--platform=linux/armv7l cloudflare/cloudflared
